@@ -1,5 +1,4 @@
 # Spring Boot JWT Authentication example with Spring Security & Spring Data JPA
-```
 – or MySQL:
 ```xml
 <dependency>
@@ -10,7 +9,6 @@
 ```
 ## Configure Spring Datasource, JPA, App properties
 Open `src/main/resources/application.properties`
-```
 - For MySQL
 ```
 spring.datasource.url= jdbc:mysql://localhost:3306/testdb?useSSL=false
